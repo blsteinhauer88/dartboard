@@ -12,8 +12,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 262,
-                    "y": 27,
+                    "x": 318,
+                    "y": 54,
                     "uniqueID": 375115,
                     "ioValues": [
                         {
@@ -23,45 +23,27 @@
                     ]
                 },
                 {
-                    "atomType": "Circle",
-                    "name": "Circle",
-                    "x": 276,
-                    "y": 149,
-                    "uniqueID": 796249,
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 317,
+                    "y": 111,
+                    "uniqueID": 907908,
                     "ioValues": [
                         {
-                            "name": "radius",
+                            "name": "height",
                             "ioValue": 30
                         }
                     ]
                 },
                 {
-                    "atomType": "ShrinkWrap",
-                    "name": "Shrink Wrap",
-                    "x": 388,
-                    "y": 228,
-                    "uniqueID": 720499,
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 316,
+                    "y": 171,
+                    "uniqueID": 796249,
                     "ioValues": [
                         {
-                            "name": "3D shape 301141",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 556674",
-                            "ioValue": 10
-                        }
-                    ],
-                    "closedSelection": 0
-                },
-                {
-                    "atomType": "Extrude",
-                    "name": "Extrude",
-                    "x": 453,
-                    "y": 89,
-                    "uniqueID": 907908,
-                    "ioValues": [
-                        {
-                            "name": "height",
+                            "name": "radius",
                             "ioValue": 30
                         }
                     ]
@@ -74,14 +56,7 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 301141",
-                    "ap1ID": 796249,
-                    "ap2ID": 720499
-                }
-            ],
+            "allConnectors": [],
             "fileTypeVersion": 1
         }
     ],
