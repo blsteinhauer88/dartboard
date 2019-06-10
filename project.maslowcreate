@@ -12,8 +12,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 253,
-                    "y": 228,
+                    "x": 262,
+                    "y": 27,
                     "uniqueID": 375115,
                     "ioValues": [
                         {
@@ -25,8 +25,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 402,
-                    "y": 290,
+                    "x": 262,
+                    "y": 86,
                     "uniqueID": 796249,
                     "ioValues": []
                 },
