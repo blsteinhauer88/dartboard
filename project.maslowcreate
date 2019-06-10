@@ -12,9 +12,9 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 320,
-                    "y": 157,
-                    "uniqueID": 375115,
+                    "x": 177,
+                    "y": 151,
+                    "uniqueID": 796249,
                     "ioValues": [
                         {
                             "name": "radius",
@@ -25,9 +25,9 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 466,
-                    "y": 139,
-                    "uniqueID": 796249,
+                    "x": 356,
+                    "y": 98,
+                    "uniqueID": 375115,
                     "ioValues": [
                         {
                             "name": "radius",
@@ -43,7 +43,13 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 375115
+                }
+            ],
             "fileTypeVersion": 1
         }
     ],
