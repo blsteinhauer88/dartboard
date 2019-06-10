@@ -35,7 +35,7 @@
                     "ioValues": [
                         {
                             "name": "radius",
-                            "ioValue": 30
+                            "ioValue": 250
                         }
                     ]
                 },
