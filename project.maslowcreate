@@ -25,10 +25,23 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 262,
-                    "y": 86,
+                    "x": 246,
+                    "y": 285,
                     "uniqueID": 796249,
                     "ioValues": []
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 246,
+                    "y": 285,
+                    "uniqueID": 454349,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 20
+                        }
+                    ]
                 },
                 {
                     "atomType": "Output",
@@ -44,11 +57,6 @@
                     "ap2Name": "radius",
                     "ap1ID": 375115,
                     "ap2ID": 796249
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 796249
                 }
             ],
             "fileTypeVersion": 1
