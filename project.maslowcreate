@@ -25,8 +25,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 356,
-                    "y": 98,
+                    "x": 253,
+                    "y": 228,
                     "uniqueID": 375115,
                     "ioValues": [
                         {
@@ -38,8 +38,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 974,
-                    "y": 155,
+                    "x": 996,
+                    "y": 263,
                     "ioValues": []
                 }
             ],
